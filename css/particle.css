@@ -1,0 +1,7 @@
+#particle-js {
+    position: fixed;
+    background: #b6d3f3;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
